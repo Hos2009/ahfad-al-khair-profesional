@@ -8,10 +8,10 @@ export default function Home(){return(<main className="min-h-screen bg-gradient-
   </a>
 
   <a
-    href="paypal.me/HosaineAmezian"
-    target="_blank"
-    className="border border-white px-6 py-3 rounded-2xl"
-  >
-    Donar PayPal
-  </a>
+  href="https://paypal.me/HosaineAmezian"
+  target="_blank"
+  className="border border-white px-6 py-3 rounded-2xl"
+>
+  Donar PayPal
+</a>
 </div></div></section><section className="max-w-6xl mx-auto py-24 px-6"><h2 className="text-4xl font-bold">Nuestra Misión</h2><p className="mt-6 text-lg text-slate-600">Promover la solidaridad y el apoyo social mediante campañas humanitarias y proyectos educativos.</p></section></main>)}
