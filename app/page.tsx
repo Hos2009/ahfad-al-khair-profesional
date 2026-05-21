@@ -8,7 +8,7 @@ export default function Home(){return(<main className="min-h-screen bg-gradient-
   </a>
 
   <a
-    href="https://www.paypal.com/myaccount/summary"
+    href="paypal.me/HosaineAmezian"
     target="_blank"
     className="border border-white px-6 py-3 rounded-2xl"
   >
