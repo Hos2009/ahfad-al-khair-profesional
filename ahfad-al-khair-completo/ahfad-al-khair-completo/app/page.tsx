@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="text-5xl font-black mt-6">Ahfad Al-Khair</h1>
         <p className="mt-4 text-xl">Asociación para la Salud y el Desarrollo Sostenible</p>
         <p>Guercif - Marruecos</p>
-
+ 
         <div className="mt-8 flex justify-center gap-4 flex-wrap">
           <a href="https://wa.me/212658743564"
           className="bg-white text-emerald-900 px-6 py-3 rounded-2xl font-bold">
