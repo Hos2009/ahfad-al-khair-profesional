@@ -29,6 +29,7 @@ export default function Home() {
         <h2 className="text-4xl font-bold mt-12">Nuestros Proyectos</h2>
 
         <div className="grid md:grid-cols-3 gap-6 mt-8">
+          <img src="/images/logo.png"  className="rounded-3xl"/>
           <img src="/images/salud.jpg" className="rounded-3xl"/>
           <img src="/images/proyecto.jpg" className="rounded-3xl"/>
           <img src="/images/proyecto2.jpg" className="rounded-3xl"/>
